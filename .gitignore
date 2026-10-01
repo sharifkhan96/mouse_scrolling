@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv1/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment-specific configurations
+*.env
+
+
+# Downloaded speech models (large)
+models/
+
+# Local-only files: a backup mirror of this repository and an accidental screenshot
+/mouse_scrolling.git/
+/pyautogui
+
+# Temporary files written while saving settings
+*.tmp
