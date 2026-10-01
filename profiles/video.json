@@ -1,0 +1,8 @@
+{
+  "_description": "Watching videos (YouTube, VLC, mpv): wink = play/pause, head turn = seek, smile = fullscreen",
+  "gestures": ["wink_left", "long_blink", "head_left", "head_right", "smile"],
+  "actions": {"wink_left": "space", "head_left": "left", "head_right": "right", "smile": "f"},
+  "repeat_enabled": false,
+  "head_scroll": false,
+  "auto_pause_away": false
+}

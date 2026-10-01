@@ -1,0 +1,8 @@
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+numpy==1.26.4
+evdev==1.9.2
+pyautogui==0.9.53
+# optional: offline voice commands (needs the speech model, see README)
+vosk==0.3.45
+sounddevice==0.5.1

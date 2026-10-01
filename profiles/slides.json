@@ -1,0 +1,9 @@
+{
+  "_description": "Presentations (Impress, PowerPoint, Google Slides): one slide per gesture, presenter overlay",
+  "gestures": ["wink_left", "wink_right", "long_blink", "brow_raise", "mouth_open"],
+  "actions": {"wink_left": "pagedown", "wink_right": "pageup", "brow_raise": "pagedown", "mouth_open": "b"},
+  "repeat_enabled": false,
+  "head_scroll": false,
+  "overlay": true,
+  "goto_prefix": ""
+}

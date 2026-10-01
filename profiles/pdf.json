@@ -1,0 +1,10 @@
+{
+  "_description": "Reading PDFs (Evince etc.): winks scroll with arrow keys, look up/down to scroll, brows = next page",
+  "gestures": ["wink_left", "wink_right", "long_blink", "brow_raise"],
+  "actions": {"wink_left": "down", "wink_right": "up", "brow_raise": "pagedown"},
+  "repeat_enabled": true,
+  "repeat_delay": 0.4,
+  "repeat_interval": 0.08,
+  "head_scroll": true,
+  "goto_prefix": "ctrl+l"
+}
